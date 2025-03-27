@@ -26,7 +26,7 @@ It also contains:
 [Implementation of the Game7 ERC20 token](./web3/contracts/token/ERC20.sol)
 
 This token will be deployed on Ethereum mainnet. The implementation consists of slight modifications to
-the wrapped Ether contract, [`WETH9`](https://github.com/gnosis/canonical-weth/blob/master/contracts/WETH9.sol).
+the wrapped Eth contract, [`WETH9`](https://github.com/gnosis/canonical-weth/blob/master/contracts/WETH9.sol).
 
 ### Staker
 
